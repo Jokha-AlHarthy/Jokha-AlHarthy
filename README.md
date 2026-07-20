@@ -70,7 +70,6 @@ A full-stack web application that generates personalized travel itineraries base
 🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)) <!-- REPLACE: demo link, remove if not applicable --> 
 
 ---
-
 ## Technical Skills
 
 <table>
@@ -80,8 +79,17 @@ A full-stack web application that generates personalized travel itineraries base
 **Programming Languages**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 **Design**
 <br/>
@@ -112,7 +120,6 @@ Object-Oriented Programming · Data Structures & Algorithms · Problem-Solving �
 Software Architecture · Frontend Development · Databases · Artificial Intelligence · Data Science
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
