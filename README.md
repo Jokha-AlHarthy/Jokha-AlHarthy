@@ -122,38 +122,12 @@ Software Architecture · Frontend Development · Databases · Artificial Intelli
 ---
 ## GitHub Analytics
 
-<div align="center">
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jokha-AlHarthy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokha-AlHarthy&layout=compact&theme=tokyonight&hide_border=true"/> <img src="https://streak-stats.demolab.com?user=Jokha-AlHarthy&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </div> 
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jokha-AlHarthy&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jokha-AlHarthy&layout=compact&theme=default&hide_border=true"/>
+<!-- Optional: activity graph — uncomment if desired --> <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jokha-AlHarthy&theme=minimal" alt="Activity Graph"/> -->
 
-<img src="https://streak-stats.demolab.com?user=Jokha-AlHarthy&theme=default&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 <!-- Optional: activity graph — uncomment if desired -->
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jokha-AlHarthy&theme=minimal" alt="Activity Graph"/>
 -->
-
----
-
-## Contact
-
-<div align="center">
-
-<!-- REPLACE: portfolio link if you have one -->
-<a href="https://github.com/Jokha-AlHarthy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jokha-al-harthy-471788333"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jokha.hamed.offical@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- REPLACE: uncomment and add your portfolio link
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2E86AB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
--->
-
-</div>
-
----
-
-<div align="center">
-<sub>Thanks for stopping by — if something here sparked an idea or a question, my inbox is open.</sub>
-</div>
