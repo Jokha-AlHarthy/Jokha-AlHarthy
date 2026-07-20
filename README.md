@@ -49,7 +49,7 @@ University of Technology and Applied Sciences · Oman<br/>
 An application for a students' reservation summaries system.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Mobile-Application-Assignment))
+🔗 ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Mobile-Application-Assignment))
 
 ---
 ### 🗺️ Tajawal
