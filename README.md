@@ -49,29 +49,27 @@ University of Technology and Applied Sciences · Oman<br/>
 An application for a students' reservation summaries system.
 
 <!-- REPLACE: repository link -->
-🔗 ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Mobile-Application-Assignment))
+🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Mobile-Application-Assignment))
 
 ---
 ### 🗺️ Tajawal
 A website for planning itineraries.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Tajawal)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
-
----
+🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Tajawal)) 
 
 ### 🤖 Wajeeh
 An AI-powered itinerary planner — my graduation project.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
+🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)) 
 
 ---
 ### ✈︎ RoamAura
 A full-stack web application that generates personalized travel itineraries based on user preferences, budget, and travel style.  — Rihal Training project.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
+🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)) <!-- REPLACE: demo link, remove if not applicable --> 
 
 ---
 
