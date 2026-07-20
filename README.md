@@ -1,7 +1,4 @@
-<!-- ============================================================
-     Jokha Al-Harthy — GitHub Profile README
-     Replace placeholders marked with <!-- REPLACE --> before publishing
-     ============================================================ -->
+
 
 <div align="center">
 
@@ -24,13 +21,9 @@
 
 ## About Me
 
-I'm a Software Engineering student at the University of Technology and Applied Sciences in Muscat, Oman, finishing my degree in 2026. Most of what I know about software didn't come from a lecture slide — it came from building things: a ticket booking site, a student reservation system, an AI itinerary planner for my graduation project.
+Software Engineering student in Muscat, Oman, who learns by building — ticket booking sites, reservation systems, an AI itinerary planner. I like working across the full stack, from Figma to backend logic to the database underneath.
 
-I like the full picture of a product, not just one layer of it. I've designed interfaces in Figma, written the backend logic behind them, and thought through how a database should be structured before either exists. That range is intentional — I want to keep being someone who can move between design, logic, and data without losing precision in any of them.
-
-Outside of coursework, I've spent time organizing technical workshops and leading student initiatives, which taught me almost as much about communication as the workshops themselves taught me about code.
-
-**Currently open to:** Software Engineering internships and entry-level opportunities where I can keep learning by doing.
+**Currently open to:** Software Engineering internships and entry-level roles.
 
 ---
 
@@ -165,45 +158,6 @@ Software Architecture · Frontend Development · Databases · Artificial Intelli
 
 ---
 
-## Currently Learning
-
-- Generative AI concepts and applications, following my internship at Creativity Fourth
-- Deepening my Data Structures & Algorithms practice
-- Exploring software architecture principles beyond coursework
-
----
-
-## Certifications & Workshops
-
-<details>
-<summary><strong>Click to expand — 9 certifications & workshops</strong></summary>
-<br/>
-
-| Certification / Workshop | Provider | Year |
-|---|---|---|
-| Awarded for outstanding performance in the final exam compilation of Database Programming with SQL | Oracle Academy | 2022 |
-| Participant in the Math Memory Championship | University of Technology and Applied Sciences | 2022 |
-| Basics of Programming Workshop in Python | University of Technology and Applied Sciences | 2024 |
-| Conducted Basics of Programming Workshop in Python | University of Technology and Applied Sciences | 2024 |
-| Organized & conducted a Computing Skills Camp in Python | University of Technology and Applied Sciences | 2024 |
-| Introduction to JavaScript | Great Learning | 2024 |
-| Organizing Team Member — IEEE ICIESTR | IEEE | 2024 |
-| Led Sanad and Talahum initiatives | University of Technology and Applied Sciences | 2024/2025 |
-| Git Training | Simplilearn / SkillUp | 2025 |
-
-</details>
-
----
-
-## Leadership & Activities
-
-- **Led Sanad and Talahum initiatives** at the University of Technology and Applied Sciences (2024/2025)
-- **Organized and conducted a Computing Skills Camp in Python** for fellow students (2024)
-- **Conducted a Basics of Programming Workshop in Python**, taking the workshop from participant to instructor (2024)
-- **Organizing Team Member** for IEEE ICIESTR (2024)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -219,20 +173,6 @@ Software Architecture · Frontend Development · Databases · Artificial Intelli
 <!--
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jokha-AlHarthy&theme=minimal" alt="Activity Graph"/>
 -->
-
----
-
-## Coding Journey
-
-I try to treat every project as a chance to write something a little cleaner than the last one. That means slowing down on structure before I speed up on features, and treating a bug I don't understand as more interesting than one I've already fixed. I'm still early in this path, and I like that — there's a lot of room to keep getting better at solving problems well, not just solving them.
-
----
-
-## Let's Collaborate
-
-If you're working on something in software engineering, AI, or thoughtful UI/UX — I'd like to hear about it. I'm especially interested in projects that involve real users and real constraints, not just clean demos.
-
-Recruiters and hiring managers: feel free to reach out directly, I'd be glad to talk about how I can contribute to your team.
 
 ---
 
