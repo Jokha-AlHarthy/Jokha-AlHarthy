@@ -65,8 +65,8 @@ An AI-powered itinerary planner — my graduation project.
 
 ---
 ### ✈︎ RoamAura
-<!-- REPLACE: repository link -->
 A full-stack web application that generates personalized travel itineraries based on user preferences, budget, and travel style.  — Rihal Training project.
+<!-- REPLACE: repository link -->
 🔗 Repository: ([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)) <!-- REPLACE: demo link, remove if not applicable --> 
 
 ---
