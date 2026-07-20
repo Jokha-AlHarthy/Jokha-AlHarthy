@@ -21,9 +21,9 @@
 
 ## About Me
 
-Software Engineering student in Muscat, Oman, who learns by building — ticket booking sites, reservation systems, an AI itinerary planner. I like working across the full stack, from Figma to backend logic to the database underneath.
+Software Engineering graduate based in Muscat, Oman. I enjoy working across the full stack & mobile applications, from design to backend logic to the database underneath & I'm currently looking for opportunities to bring that to a team.
 
-**Currently open to:** Software Engineering internships and entry-level roles.
+Currently open to: Software Engineering roles.
 
 ---
 
