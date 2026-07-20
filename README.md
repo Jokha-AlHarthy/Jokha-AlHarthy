@@ -42,69 +42,21 @@ University of Technology and Applied Sciences · Oman<br/>
 
 ---
 
-## Experience
-
-<table>
-<tr>
-<td><strong>Software Engineer Internship</strong></td>
-<td>Rihal Data Migration and Services LLC</td>
-<td><sub>Jul 2025 – Aug 2025</sub></td>
-</tr>
-<tr>
-<td><strong>Technical Support IT Internship</strong></td>
-<td>Ministry of Agriculture, Fisheries and Water Resources</td>
-<td><sub>Jan 2026 – Feb 2026</sub></td>
-</tr>
-<tr>
-<td><strong>Generative AI Internship</strong></td>
-<td>Creativity Fourth</td>
-<td><sub>Jan 2026</sub></td>
-</tr>
-</table>
-
----
-
 ## Featured Projects
-
-<!-- Replace each REPO_LINK and DEMO_LINK below with the actual URLs -->
-
-### ✈️ Flying Musandam
-A website for booking tickets, built end-to-end from interface to functionality.
-
-<!-- REPLACE: repository link -->
-🔗 [Repository](https://github.com/Jokha-AlHarthy/REPLACE_ME) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
-
----
-
-### 🍩 Lulu Dounts
-A website for ordering customized donuts, designed and built as a full ordering experience.
-
-<!-- REPLACE: repository link -->
-🔗 [Repository](https://github.com/Jokha-AlHarthy/REPLACE_ME) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
-
 ---
 
 ### 📋 Mulaskhasy
 An application for a students' reservation summaries system.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository](https://github.com/Jokha-AlHarthy/REPLACE_ME)
+🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Mobile-Application-Assignment))
 
 ---
-
-### 💳 Mehfadhti
-UI/UX design for a student allowance management app, designed in Figma.
-
-<!-- REPLACE: Figma / repository link -->
-🔗 [Figma File](https://github.com/Jokha-AlHarthy/REPLACE_ME)
-
----
-
 ### 🗺️ Tajawal
 A website for planning itineraries.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository](https://github.com/Jokha-AlHarthy/REPLACE_ME) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
+🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Tajawal)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
 
 ---
 
@@ -112,7 +64,14 @@ A website for planning itineraries.
 An AI-powered itinerary planner — my graduation project.
 
 <!-- REPLACE: repository link -->
-🔗 [Repository](https://github.com/Jokha-AlHarthy/REPLACE_ME) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
+🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
+
+---
+### ✈︎ RoamAura
+A full-stack web application that generates personalized travel itineraries based on user preferences, budget, and travel style.  — Rihal Training project.
+
+<!-- REPLACE: repository link -->
+🔗 [Repository]([https://github.com/Jokha-AlHarthy/REPLACE_ME](https://github.com/Jokha-AlHarthy/Wajeeh-Mobile-Application-Travel-Itinerary)](https://github.com/moodyminji/Automated-Travel-Itinerary-Generator-SparkToCode-Project)) · <!-- REPLACE: demo link, remove if not applicable --> [Live Demo](#)
 
 ---
 
